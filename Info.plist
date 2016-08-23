@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Trent Rand</string>
+	<key>Builder Version</key>
+	<string>12602.1.50</string>
+	<key>CFBundleDisplayName</key>
+	<string>Smile</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.trentrand.smile</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>Start</key>
+			<array>
+				<string>redirect.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Don&apos;t forget to Smile! Automatically redirect to Amazon Smile</string>
+	<key>DeveloperIdentifier</key>
+	<string>VYSX36K935</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>www.amazon.com</string>
+				<string>amazon.com</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
+	<key>Update From Gallery</key>
+	<true/>
+	<key>Website</key>
+	<string>http://www.TrentRand.com/</string>
+</dict>
+</plist>
