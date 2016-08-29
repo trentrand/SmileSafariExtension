@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Trent Rand</string>
 	<key>Builder Version</key>
-	<string>12602.1.50</string>
+	<string>12602.1.50.0.5</string>
 	<key>CFBundleDisplayName</key>
 	<string>Smile</string>
 	<key>CFBundleIdentifier</key>
@@ -27,7 +27,7 @@
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Don&apos;t forget to Smile! Automatically redirect to Amazon Smile</string>
+	<string>Don't forget to Smile! Automatically redirect to Amazon Smile</string>
 	<key>DeveloperIdentifier</key>
 	<string>VYSX36K935</string>
 	<key>ExtensionInfoDictionaryVersion</key>
